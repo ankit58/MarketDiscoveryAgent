@@ -1,0 +1,6 @@
+# Ignore SSH keys
+.ssh/
+.ssh/
+*.env
+node_modules/ # if Node project
+__pycache__/ # if Python project

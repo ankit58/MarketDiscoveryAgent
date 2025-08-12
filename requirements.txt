@@ -1,0 +1,7 @@
+snscrape
+praw
+requests
+pandas
+beautifulsoup4
+lxml
+python-dotenv
